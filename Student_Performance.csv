@@ -1,0 +1,276 @@
+﻿1,Sesgun,Afolarin,Male,14,Abesan_high_SCh,3,Yes,No,85,75,80,78,77.666666
+2,John,Ade,Male,15,Abesan_high_SCh,2,No,Yes,78,65,70,68,67.666666
+3,Mary,Bello,Female,16,Greenfield High School,4,Yes,Yes,92,90,85,88,87.666666
+4,David,Okafor,Male,14,Sunrise Secondary School,1,No,No,60,55,60,58,57.666666
+5,Grace,Ibrahim,Female,15,Bright Future Academy,3,Yes,Yes,88,88,82,85,85.000000
+6,Samuel,Ojo,Male,17,Lagos Model College,5,Yes,Yes,90,92,90,91,91.000000
+7,Esther,Balogun,Female,16,Abesan_high_SCh,2,No,No,75,70,75,72,72.333333
+8,Daniel,Musa,Male,15,Greenfield High School,3,Yes,No,80,78,80,79,79.000000
+9,Ruth,Okeke,Female,14,Sunrise Secondary School,1,No,Yes,70,60,65,63,62.666666
+10,Peter,Lawal,Male,16,Bright Future Academy,4,Yes,Yes,82,85,88,86,86.333333
+11,Joy,Sani,Female,15,Lagos Model College,5,Yes,Yes,87,91,89,90,90.000000
+12,Michael,Uche,Male,17,Abesan_high_SCh,2,No,No,91,68,72,70,70.000000
+13,Blessing,Ali,Female,16,Greenfield High School,3,Yes,Yes,65,80,78,79,79.000000
+14,Isaac,Yusuf,Male,15,Sunrise Secondary School,2,No,No,68,72,74,73,73.000000
+15,Hannah,Garba,Female,14,Bright Future Academy,4,Yes,Yes,84,87,85,86,86.000000
+16,Emmanuel,Danladi,Male,16,Lagos Model College,3,Yes,No,79,76,78,77,77.000000
+17,Sarah,Abdullahi,Female,15,Abesan_high_SCh,5,Yes,Yes,73,93,91,92,92.000000
+18,Joseph,Eze,Male,17,Greenfield High School,2,No,No,95,79,81,80,80.000000
+19,Deborah,Onyeka,Female,16,Sunrise Secondary School,1,No,Yes,88,62,65,64,63.666666
+20,Paul,Chukwu,Male,15,Bright Future Academy,4,Yes,Yes,76,86,84,85,85.000000
+21,Mercy,Okon,Female,14,Lagos Model College,5,Yes,Yes,81,90,88,89,89.000000
+22,Victor,Adamu,Male,16,Abesan_high_SCh,2,No,No,69,71,73,72,72.000000
+23,Peace,Nwankwo,Female,15,Greenfield High School,3,Yes,Yes,92,88,87,86,87.000000
+24,Kelvin,Olu,Male,17,Sunrise Secondary School,2,No,No,77,74,76,75,75.000000
+25,Patience,Yakubu,Female,16,Bright Future Academy,4,Yes,Yes,83,89,90,88,89.000000
+26,Godwin,Ifeanyi,Male,15,Lagos Model College,3,Yes,No,85,82,78,80,80.000000
+27,Chinedu,Okafor,Male,16,Abesan_high_SCh,2,No,Yes,78,75,70,73,72.666666
+28,Aisha,Bello,Female,17,Abesan_high_SCh,4,Yes,Yes,92,88,85,87,86.666666
+29,Tunde,Adeyemi,Male,15,Abesan_high_SCh,1,No,No,60,60,62,61,61.000000
+30,Ngozi,Eze,Female,16,Abesan_high_SCh,3,Yes,Yes,88,90,88,89,89.000000
+31,Sadiq,Abubakar,Male,17,Abesan_high_SCh,5,Yes,Yes,90,84,81,83,82.666666
+32,Funmi,Olawale,Female,16,Abesan_high_SCh,2,No,No,75,77,75,76,76.000000
+33,Emeka,Nwankwo,Male,15,Abesan_high_SCh,3,Yes,Yes,80,79,80,78,79.000000
+34,Zainab,Sule,Female,17,Abesan_high_SCh,1,No,No,70,66,68,67,67.000000
+35,Kunle,Adebayo,Male,16,Abesan_high_SCh,4,Yes,Yes,82,85,87,86,86.000000
+36,Amaka,Okorie,Female,15,Abesan_high_SCh,5,Yes,Yes,87,91,90,92,91.000000
+37,Ibrahim,Musa,Male,17,Abesan_high_SCh,2,No,No,91,72,74,73,73.000000
+38,Bisi,Ajayi,Female,16,Abesan_high_SCh,3,Yes,Yes,65,69,70,71,70.000000
+39,Obinna,Eze,Male,15,Abesan_high_SCh,2,No,No,68,64,66,65,65.000000
+40,Hauwa,Lawal,Female,16,Abesan_high_SCh,4,Yes,Yes,84,88,86,87,87.000000
+41,Segun,Ogunleye,Male,17,Abesan_high_SCh,3,Yes,No,79,80,82,81,81.000000
+42,Chioma,Okafor,Female,16,Abesan_high_SCh,5,Yes,Yes,73,73,75,74,74.000000
+43,Yusuf,Garba,Male,15,Abesan_high_SCh,2,No,No,95,94,92,93,93.000000
+44,Kemi,Adebola,Female,17,Abesan_high_SCh,1,No,Yes,88,85,83,84,84.000000
+45,Chukwuemeka,Ike,Male,16,Abesan_high_SCh,4,Yes,Yes,76,78,77,79,78.000000
+46,Fatima,Usman,Female,15,Abesan_high_SCh,5,Yes,Yes,81,81,80,82,81.000000
+47,Damilola,Ojo,Male,17,Abesan_high_SCh,2,No,No,69,67,69,68,68.000000
+48,Uche,Maduka,Female,16,Abesan_high_SCh,3,Yes,Yes,92,90,89,91,90.000000
+49,Kabiru,Sani,Male,15,Abesan_high_SCh,2,No,No,77,76,74,75,75.000000
+50,Sola,Akinwale,Female,16,Abesan_high_SCh,4,Yes,Yes,83,83,82,84,83.000000
+51,Ifeanyi,Okeke,Male,17,Abesan_high_SCh,3,Yes,No,74,72,70,73,71.666666
+52,Amina,Abdullahi,Female,16,Abesan_high_SCh,5,Yes,Yes,90,88,87,86,87.000000
+53,Babatunde,Olatunji,Male,15,Abesan_high_SCh,2,No,No,66,65,66,64,65.000000
+54,Nkechi,Eze,Female,17,Abesan_high_SCh,4,Yes,Yes,85,85,84,83,84.000000
+55,Aliyu,Shehu,Male,16,Abesan_high_SCh,3,Yes,No,80,79,78,80,79.000000
+56,Yetunde,Balogun,Female,15,Abesan_high_SCh,5,Yes,Yes,93,92,91,90,91.000000
+57,Kingsley,Nwosu,Male,17,Abesan_high_SCh,2,No,No,71,71,72,73,72.000000
+58,Rukayat,Olawale,Female,16,Abesan_high_SCh,4,Yes,Yes,84,84,83,85,84.000000
+59,Chisom,Obi,Male,15,Abesan_high_SCh,3,Yes,No,78,77,76,78,77.000000
+60,Maryam,Danjuma,Female,16,Abesan_high_SCh,5,Yes,Yes,89,89,88,90,89.000000
+61,Femi,Adeleke,Male,17,Abesan_high_SCh,2,No,No,72,73,74,72,73.000000
+62,Ada,Okonkwo,Female,16,Abesan_high_SCh,4,Yes,Yes,86,86,85,87,86.000000
+63,Usman,Tanko,Male,15,Abesan_high_SCh,5,Yes,Yes,91,91,90,92,91.000000
+64,Bolanle,Adewale,Female,17,Abesan_high_SCh,2,No,No,67,67,66,68,67.000000
+65,Kelechi,Uche,Male,16,Abesan_high_SCh,3,Yes,Yes,82,82,81,83,82.000000
+66,Zainab,Abdullahi,Female,15,Abesan_high_SCh,4,Yes,Yes,88,88,87,89,88.000000
+67,Olumide,Akinola,Male,17,Abesan_high_SCh,2,No,No,75,75,74,76,75.000000
+68,Ijeoma,Okeke,Female,16,Abesan_high_SCh,5,Yes,Yes,94,94,93,95,94.000000
+69,Mustapha,Bello,Male,15,Abesan_high_SCh,3,Yes,No,79,79,78,80,79.000000
+70,Titi,Ogun,Female,16,Abesan_high_SCh,4,Yes,Yes,87,87,86,88,87.000000
+71,Chidi,Eze,Male,17,Abesan_high_SCh,2,No,No,70,70,69,71,70.000000
+72,Hajara,Suleiman,Female,16,Abesan_high_SCh,3,Yes,Yes,83,83,82,84,83.000000
+73,Seyi,Adekunle,Male,15,Abesan_high_SCh,5,Yes,Yes,90,90,89,91,90.000000
+74,Nnamdi,Okafor,Male,17,Abesan_high_SCh,2,No,No,76,76,75,77,76.000000
+75,Amina,Garba,Female,16,Abesan_high_SCh,4,Yes,Yes,81,81,80,82,81.000000
+76,Wale,Olawale,Male,15,Abesan_high_SCh,3,Yes,No,69,69,68,70,69.000000
+77,Blessing,Nwankwo,Female,17,Abesan_high_SCh,5,Yes,Yes,92,92,91,93,92.000000
+78,Abdullahi,Musa,Male,16,Abesan_high_SCh,2,No,No,85,85,84,86,85.000000
+79,Shade,Adebayo,Female,15,Abesan_high_SCh,4,Yes,Yes,73,73,72,74,73.000000
+80,Obi,Okeke,Male,16,Abesan_high_SCh,3,Yes,No,88,88,87,89,88.000000
+81,Zainab,Sani,Female,17,Abesan_high_SCh,5,Yes,Yes,66,66,65,67,66.000000
+82,Kunle,Ajayi,Male,16,Abesan_high_SCh,2,No,No,80,80,79,81,80.000000
+83,Ngozi,Eze,Female,15,Abesan_high_SCh,4,Yes,Yes,91,91,90,92,91.000000
+84,Ibrahim,Usman,Male,17,Abesan_high_SCh,3,Yes,No,77,77,76,78,77.000000
+85,Kemi,Balogun,Female,16,Abesan_high_SCh,5,Yes,Yes,84,84,83,85,84.000000
+86,Emeka,Nwosu,Male,15,Abesan_high_SCh,2,No,No,72,72,71,73,72.000000
+87,Fatima,Bello,Female,17,Abesan_high_SCh,4,Yes,Yes,93,93,92,94,93.000000
+88,Segun,Adeleke,Male,16,Abesan_high_SCh,3,Yes,No,86,86,85,87,86.000000
+89,Chioma,Okorie,Female,15,Abesan_high_SCh,5,Yes,Yes,68,68,67,69,68.000000
+90,Yusuf,Garba,Male,16,Abesan_high_SCh,2,No,No,82,82,81,83,82.000000
+91,Bisi,Adebola,Female,17,Abesan_high_SCh,4,Yes,Yes,75,75,74,76,75.000000
+92,Chinedu,Okafor,Male,16,Abesan_high_SCh,3,Yes,No,89,89,88,90,89.000000
+93,Aisha,Sule,Female,15,Abesan_high_SCh,5,Yes,Yes,94,94,93,95,94.000000
+94,Tunde,Adebayo,Male,17,Abesan_high_SCh,2,No,No,71,71,70,72,71.000000
+95,Amaka,Eze,Female,16,Abesan_high_SCh,4,Yes,Yes,80,80,79,81,80.000000
+96,Sadiq,Abubakar,Male,15,Abesan_high_SCh,3,Yes,No,67,67,66,68,67.000000
+97,Funmi,Olawale,Female,17,Abesan_high_SCh,5,Yes,Yes,85,85,84,86,85.000000
+98,Obinna,Okeke,Male,16,Abesan_high_SCh,2,No,No,90,90,89,91,90.000000
+99,Hauwa,Lawal,Female,15,Abesan_high_SCh,4,Yes,Yes,76,76,75,77,76.000000
+100,Segun,Ogunleye,Male,16,Abesan_high_SCh,3,Yes,No,83,83,82,84,83.000000
+101,Chioma,Okafor,Female,17,Abesan_high_SCh,4,Yes,Yes,70,70,69,71,70.000000
+102,Yusuf,Garba,Male,16,Abesan_high_SCh,2,No,No,91,91,90,92,91.000000
+103,Kemi,Adebola,Female,15,Abesan_high_SCh,5,Yes,Yes,78,78,77,79,78.000000
+104,Chukwuemeka,Ike,Male,17,Abesan_high_SCh,3,Yes,No,87,87,86,88,87.000000
+105,Fatima,Usman,Female,16,Abesan_high_SCh,4,Yes,Yes,73,73,72,74,73.000000
+106,Damilola,Ojo,Male,15,Abesan_high_SCh,2,No,No,88,88,87,89,88.000000
+107,Uche,Maduka,Female,17,Abesan_high_SCh,5,Yes,Yes,65,65,64,66,65.000000
+108,Kabiru,Sani,Male,16,Abesan_high_SCh,3,Yes,No,79,79,78,80,79.000000
+109,Sola,Akinwale,Female,15,Abesan_high_SCh,4,Yes,Yes,92,92,91,93,92.000000
+110,Ifeanyi,Okeke,Male,17,Abesan_high_SCh,2,No,No,84,84,83,85,84.000000
+111,Amina,Abdullahi,Female,16,Abesan_high_SCh,3,Yes,Yes,71,71,70,72,71.000000
+112,Babatunde,Olatunji,Male,15,Abesan_high_SCh,4,Yes,Yes,89,89,88,90,89.000000
+113,Nkechi,Eze,Female,17,Abesan_high_SCh,2,No,No,77,77,76,78,77.000000
+114,Aliyu,Shehu,Male,16,Abesan_high_SCh,5,Yes,Yes,85,85,84,86,85.000000
+115,Yetunde,Balogun,Female,15,Abesan_high_SCh,3,Yes,No,69,69,68,70,69.000000
+116,Kingsley,Nwosu,Male,17,Abesan_high_SCh,4,Yes,Yes,93,93,92,94,93.000000
+117,Rukayat,Olawale,Female,16,Abesan_high_SCh,2,No,No,86,86,85,87,86.000000
+118,Chisom,Obi,Male,15,Abesan_high_SCh,5,Yes,Yes,72,72,71,73,72.000000
+119,Maryam,Danjuma,Female,17,Abesan_high_SCh,3,Yes,No,81,81,80,82,81.000000
+120,Femi,Adeleke,Male,16,Abesan_high_SCh,4,Yes,Yes,95,95,94,95,94.666666
+121,Ada,Okonkwo,Female,15,Abesan_high_SCh,2,No,No,75,75,74,76,75.000000
+122,Usman,Tanko,Male,17,Abesan_high_SCh,4,Yes,Yes,88,88,87,89,88.000000
+123,Bolanle,Adewale,Female,16,Abesan_high_SCh,3,Yes,No,67,67,66,68,67.000000
+124,Kelechi,Uche,Male,15,Abesan_high_SCh,5,Yes,Yes,82,82,81,83,82.000000
+125,Zainab,Abdullahi,Female,17,Abesan_high_SCh,2,No,No,90,90,89,91,90.000000
+126,Olumide,Akinola,Male,16,Abesan_high_SCh,4,Yes,Yes,74,74,73,75,74.000000
+127,Ijeoma,Okeke,Female,15,Abesan_high_SCh,3,Yes,No,87,87,86,88,87.000000
+128,Mustapha,Bello,Male,17,Abesan_high_SCh,5,Yes,Yes,91,91,90,92,91.000000
+129,Titi,Ogun,Female,16,Abesan_high_SCh,2,No,No,69,69,68,70,69.000000
+130,Chidi,Eze,Male,15,Abesan_high_SCh,4,Yes,Yes,83,83,82,84,83.000000
+131,Hajara,Suleiman,Female,17,Abesan_high_SCh,3,Yes,No,77,77,76,78,77.000000
+132,Seyi,Adekunle,Male,16,Abesan_high_SCh,5,Yes,Yes,92,92,91,93,92.000000
+133,Nnamdi,Okafor,Male,15,Abesan_high_SCh,2,No,No,86,86,85,87,86.000000
+134,Amina,Garba,Female,17,Abesan_high_SCh,4,Yes,Yes,73,73,72,74,73.000000
+135,Wale,Olawale,Male,16,Abesan_high_SCh,3,Yes,No,88,88,87,89,88.000000
+136,Blessing,Nwankwo,Female,15,Abesan_high_SCh,5,Yes,Yes,65,65,64,66,65.000000
+137,Abdullahi,Musa,Male,17,Abesan_high_SCh,2,No,No,79,79,78,80,79.000000
+138,Shade,Adebayo,Female,16,Abesan_high_SCh,4,Yes,Yes,90,90,89,91,90.000000
+139,Obi,Okeke,Male,15,Abesan_high_SCh,3,Yes,No,84,84,83,85,84.000000
+140,Zainab,Sani,Female,17,Abesan_high_SCh,5,Yes,Yes,70,70,69,71,70.000000
+141,Kunle,Ajayi,Male,16,Abesan_high_SCh,2,No,No,89,89,88,90,89.000000
+142,Ngozi,Eze,Female,15,Abesan_high_SCh,4,Yes,Yes,76,76,75,77,76.000000
+143,Ibrahim,Usman,Male,17,Abesan_high_SCh,3,Yes,No,83,83,82,84,83.000000
+144,Kemi,Balogun,Female,16,Abesan_high_SCh,5,Yes,Yes,68,68,67,69,68.000000
+145,Emeka,Nwosu,Male,15,Abesan_high_SCh,2,No,No,91,91,90,92,91.000000
+146,Fatima,Bello,Female,17,Abesan_high_SCh,4,Yes,Yes,85,85,84,86,85.000000
+147,Segun,Adeleke,Male,16,Abesan_high_SCh,3,Yes,No,72,72,71,73,72.000000
+148,Chioma,Okorie,Female,15,Abesan_high_SCh,5,Yes,Yes,80,80,79,81,80.000000
+149,Yusuf,Garba,Male,17,Abesan_high_SCh,2,No,No,93,93,92,94,93.000000
+150,Bisi,Adebola,Female,16,Abesan_high_SCh,4,Yes,Yes,78,78,77,79,78.000000
+151,Chinedu,Okafor,Male,15,Abesan_high_SCh,3,Yes,No,80,80,79,81,80.000000
+152,Chinedu,Okafor,Male,16,Abesan_high_SCh,4,Yes,Yes,86,86,85,87,86.000000
+153,Aisha,Bello,Female,17,Greenfield High School,2,No,No,75,75,74,76,75.000000
+154,Tunde,Adeyemi,Male,15,Sunrise Secondary School,5,Yes,Yes,92,92,91,93,92.000000
+155,Ngozi,Eze,Female,16,Bright Future Academy,3,Yes,No,68,68,67,69,68.000000
+156,Sadiq,Abubakar,Male,17,Lagos Model College,4,Yes,Yes,84,84,83,85,84.000000
+157,Funmi,Olawale,Female,16,Royal Scholars School,2,No,No,77,77,76,78,77.000000
+158,Emeka,Nwankwo,Male,15,Abesan_high_SCh,5,Yes,Yes,90,90,89,91,90.000000
+159,Zainab,Sule,Female,17,Greenfield High School,3,Yes,No,73,73,72,74,73.000000
+160,Kunle,Adebayo,Male,16,Sunrise Secondary School,4,Yes,Yes,88,88,87,89,88.000000
+161,Amaka,Okorie,Female,15,Bright Future Academy,2,No,No,85,85,84,86,85.000000
+162,Ibrahim,Musa,Male,17,Lagos Model College,3,Yes,Yes,79,79,78,80,79.000000
+163,Bisi,Ajayi,Female,16,Royal Scholars School,4,Yes,Yes,91,91,90,92,91.000000
+164,Obinna,Eze,Male,15,Abesan_high_SCh,2,No,No,66,66,65,67,66.000000
+165,Hauwa,Lawal,Female,16,Greenfield High School,5,Yes,Yes,82,82,81,83,82.000000
+166,Segun,Ogunleye,Male,17,Sunrise Secondary School,3,Yes,No,87,87,86,88,87.000000
+167,Chioma,Okafor,Female,16,Bright Future Academy,4,Yes,Yes,74,74,73,75,74.000000
+168,Yusuf,Garba,Male,15,Lagos Model College,2,No,No,93,93,92,94,93.000000
+169,Kemi,Adebola,Female,17,Royal Scholars School,5,Yes,Yes,78,78,77,79,78.000000
+170,Chukwuemeka,Ike,Male,16,Abesan_high_SCh,3,Yes,No,81,81,80,82,81.000000
+171,Fatima,Usman,Female,15,Greenfield High School,4,Yes,Yes,76,76,75,77,76.000000
+172,Damilola,Ojo,Male,17,Sunrise Secondary School,2,No,No,89,89,88,90,89.000000
+173,Uche,Maduka,Female,16,Bright Future Academy,3,Yes,Yes,83,83,82,84,83.000000
+174,Kabiru,Sani,Male,15,Lagos Model College,5,Yes,Yes,95,95,94,95,94.666666
+175,Sola,Akinwale,Female,16,Royal Scholars School,2,No,No,70,70,69,71,70.000000
+176,Ifeanyi,Okeke,Male,17,Abesan_high_SCh,4,Yes,Yes,88,88,87,89,88.000000
+177,Amina,Abdullahi,Female,16,Greenfield High School,3,Yes,No,67,67,66,68,67.000000
+178,Babatunde,Olatunji,Male,15,Sunrise Secondary School,5,Yes,Yes,92,92,91,93,92.000000
+179,Nkechi,Eze,Female,17,Bright Future Academy,2,No,No,80,80,79,81,80.000000
+180,Aliyu,Shehu,Male,16,Lagos Model College,4,Yes,Yes,85,85,84,86,85.000000
+181,Yetunde,Balogun,Female,15,Royal Scholars School,3,Yes,No,78,78,77,79,78.000000
+182,Kingsley,Nwosu,Male,17,Abesan_high_SCh,4,Yes,Yes,86,86,85,87,86.000000
+183,Rukayat,Olawale,Female,16,Greenfield High School,2,No,No,72,72,71,73,72.000000
+184,Chisom,Obi,Male,15,Sunrise Secondary School,5,Yes,Yes,90,90,89,91,90.000000
+185,Maryam,Danjuma,Female,16,Bright Future Academy,3,Yes,No,84,84,83,85,84.000000
+186,Femi,Adeleke,Male,17,Lagos Model College,4,Yes,Yes,69,69,68,70,69.000000
+187,Ada,Okonkwo,Female,16,Royal Scholars School,2,No,No,93,93,92,94,93.000000
+188,Usman,Tanko,Male,15,Abesan_high_SCh,5,Yes,Yes,75,75,74,76,75.000000
+189,Bolanle,Adewale,Female,17,Greenfield High School,3,Yes,No,88,88,87,89,88.000000
+190,Kelechi,Uche,Male,16,Sunrise Secondary School,4,Yes,Yes,81,81,80,82,81.000000
+191,Zainab,Abdullahi,Female,15,Bright Future Academy,2,No,No,82,82,81,83,82.000000
+192,Olumide,Akinola,Male,17,Lagos Model College,3,Yes,Yes,77,77,76,78,77.000000
+193,Ijeoma,Okeke,Female,16,Royal Scholars School,4,Yes,Yes,91,91,90,92,91.000000
+194,Mustapha,Bello,Male,15,Abesan_high_SCh,2,No,No,73,73,72,74,73.000000
+195,Titi,Ogun,Female,16,Greenfield High School,5,Yes,Yes,85,85,84,86,85.000000
+196,Chidi,Eze,Male,17,Sunrise Secondary School,3,Yes,No,68,68,67,69,68.000000
+197,Hajara,Suleiman,Female,16,Bright Future Academy,4,Yes,Yes,94,94,93,95,94.000000
+198,Seyi,Adekunle,Male,15,Lagos Model College,2,No,No,79,79,78,80,79.000000
+199,Nnamdi,Okafor,Male,17,Royal Scholars School,5,Yes,Yes,87,87,86,88,87.000000
+200,Amina,Garba,Female,16,Abesan_high_SCh,3,Yes,No,76,76,75,77,76.000000
+201,Wale,Olawale,Male,15,Greenfield High School,4,Yes,Yes,90,90,89,91,90.000000
+202,Blessing,Nwankwo,Female,17,Sunrise Secondary School,2,No,No,83,83,82,84,83.000000
+203,Abdullahi,Musa,Male,16,Bright Future Academy,3,Yes,Yes,78,78,77,79,78.000000
+204,Shade,Adebayo,Female,15,Lagos Model College,4,Yes,Yes,92,92,91,93,92.000000
+205,Obi,Okeke,Male,16,Royal Scholars School,2,No,No,71,71,70,72,71.000000
+206,Zainab,Sani,Female,17,Abesan_high_SCh,5,Yes,Yes,86,86,85,87,86.000000
+207,Kunle,Ajayi,Male,16,Greenfield High School,3,Yes,No,80,80,79,81,80.000000
+208,Ngozi,Eze,Female,15,Sunrise Secondary School,4,Yes,Yes,95,95,94,95,94.666666
+209,Ibrahim,Usman,Male,17,Bright Future Academy,2,No,No,74,74,73,75,74.000000
+210,Kemi,Balogun,Female,16,Lagos Model College,5,Yes,Yes,88,88,87,89,88.000000
+211,Emeka,Nwosu,Male,15,Royal Scholars School,3,Yes,No,67,67,66,68,67.000000
+212,Fatima,Bello,Female,17,Abesan_high_SCh,4,Yes,Yes,89,89,88,90,89.000000
+213,Segun,Adeleke,Male,16,Greenfield High School,2,No,No,82,82,81,83,82.000000
+214,Chioma,Okorie,Female,15,Sunrise Secondary School,3,Yes,Yes,77,77,76,78,77.000000
+215,Yusuf,Garba,Male,16,Bright Future Academy,4,Yes,Yes,93,93,92,94,93.000000
+216,Bisi,Adebola,Female,17,Lagos Model College,2,No,No,85,85,84,86,85.000000
+217,Chinedu,Okafor,Male,16,Royal Scholars School,5,Yes,Yes,70,70,69,71,70.000000
+218,Aisha,Sule,Female,15,Abesan_high_SCh,3,Yes,No,91,91,90,92,91.000000
+219,Tunde,Adebayo,Male,17,Greenfield High School,4,Yes,Yes,76,76,75,77,76.000000
+220,Amaka,Eze,Female,16,Sunrise Secondary School,2,No,No,84,84,83,85,84.000000
+221,Sadiq,Abubakar,Male,15,Bright Future Academy,4,Yes,Yes,88,88,87,89,88.000000
+222,Funmi,Olawale,Female,17,Lagos Model College,3,Yes,No,73,73,72,74,73.000000
+223,Obinna,Okeke,Male,16,Royal Scholars School,5,Yes,Yes,90,90,89,91,90.000000
+224,Hauwa,Lawal,Female,15,Abesan_high_SCh,2,No,No,79,79,78,80,79.000000
+225,Segun,Ogunleye,Male,16,Greenfield High School,4,Yes,Yes,92,92,91,93,92.000000
+226,Chioma,Okafor,Female,17,Sunrise Secondary School,3,Yes,No,81,81,80,82,81.000000
+227,Yusuf,Garba,Male,16,Bright Future Academy,5,Yes,Yes,66,66,65,67,66.000000
+228,Kemi,Adebola,Female,15,Lagos Model College,2,No,No,87,87,86,88,87.000000
+229,Chukwuemeka,Ike,Male,17,Royal Scholars School,4,Yes,Yes,75,75,74,76,75.000000
+230,Fatima,Usman,Female,16,Abesan_high_SCh,3,Yes,No,94,94,93,95,94.000000
+231,Damilola,Ojo,Male,15,Greenfield High School,5,Yes,Yes,80,80,79,81,80.000000
+232,Uche,Maduka,Female,17,Sunrise Secondary School,2,No,No,85,85,84,86,85.000000
+233,Kabiru,Sani,Male,16,Bright Future Academy,4,Yes,Yes,72,72,71,73,72.000000
+234,Sola,Akinwale,Female,15,Lagos Model College,3,Yes,No,91,91,90,92,91.000000
+235,Ifeanyi,Okeke,Male,17,Royal Scholars School,5,Yes,Yes,77,77,76,78,77.000000
+236,Amina,Abdullahi,Female,16,Abesan_high_SCh,2,No,No,88,88,87,89,88.000000
+237,Babatunde,Olatunji,Male,15,Greenfield High School,4,Yes,Yes,69,69,68,70,69.000000
+238,Nkechi,Eze,Female,17,Sunrise Secondary School,3,Yes,No,93,93,92,94,93.000000
+239,Aliyu,Shehu,Male,16,Bright Future Academy,5,Yes,Yes,83,83,82,84,83.000000
+240,Yetunde,Balogun,Female,15,Lagos Model College,2,No,No,86,86,85,87,86.000000
+241,Kingsley,Nwosu,Male,17,Royal Scholars School,4,Yes,Yes,78,78,77,79,78.000000
+242,Rukayat,Olawale,Female,16,Abesan_high_SCh,3,Yes,No,92,92,91,93,92.000000
+243,Chisom,Obi,Male,15,Greenfield High School,5,Yes,Yes,81,81,80,82,81.000000
+244,Maryam,Danjuma,Female,17,Sunrise Secondary School,2,No,No,74,74,73,75,74.000000
+245,Femi,Adeleke,Male,16,Bright Future Academy,4,Yes,Yes,89,89,88,90,89.000000
+246,Ada,Okonkwo,Female,15,Lagos Model College,3,Yes,No,67,67,66,68,67.000000
+247,Usman,Tanko,Male,17,Royal Scholars School,5,Yes,Yes,90,90,89,91,90.000000
+248,Bolanle,Adewale,Female,16,Abesan_high_SCh,2,No,No,85,85,84,86,85.000000
+249,Kelechi,Uche,Male,15,Greenfield High School,4,Yes,Yes,76,76,75,77,76.000000
+250,Zainab,Abdullahi,Female,17,Sunrise Secondary School,3,Yes,No,93,93,92,94,93.000000
+251,Olumide,Akinola,Male,16,Bright Future Academy,5,Yes,Yes,82,82,81,83,82.000000
+252,Ijeoma,Okeke,Female,15,Lagos Model College,2,No,No,88,88,87,89,88.000000
+253,Mustapha,Bello,Male,17,Royal Scholars School,4,Yes,Yes,75,75,74,76,75.000000
+254,Titi,Ogun,Female,16,Abesan_high_SCh,3,Yes,No,91,91,90,92,91.000000
+255,Chidi,Eze,Male,15,Greenfield High School,5,Yes,Yes,70,70,69,71,70.000000
+256,Hajara,Suleiman,Female,17,Sunrise Secondary School,2,No,No,84,84,83,85,84.000000
+257,Seyi,Adekunle,Male,16,Bright Future Academy,4,Yes,Yes,79,79,78,80,79.000000
+258,Nnamdi,Okafor,Male,15,Lagos Model College,3,Yes,No,95,95,94,95,94.666666
+259,Amina,Garba,Female,17,Royal Scholars School,5,Yes,Yes,73,73,72,74,73.000000
+260,Wale,Olawale,Male,16,Abesan_high_SCh,2,No,No,86,86,85,87,86.000000
+261,Blessing,Nwankwo,Female,15,Greenfield High School,4,Yes,Yes,77,77,76,78,77.000000
+262,Abdullahi,Musa,Male,17,Sunrise Secondary School,3,Yes,No,90,90,89,91,90.000000
+263,Shade,Adebayo,Female,16,Bright Future Academy,5,Yes,Yes,68,68,67,69,68.000000
+264,Obi,Okeke,Male,15,Lagos Model College,2,No,No,85,85,84,86,85.000000
+265,Zainab,Sani,Female,17,Royal Scholars School,4,Yes,Yes,92,92,91,93,92.000000
+266,Kunle,Ajayi,Male,16,Abesan_high_SCh,3,Yes,No,81,81,80,82,81.000000
+267,Ngozi,Eze,Female,15,Greenfield High School,5,Yes,Yes,74,74,73,75,74.000000
+268,Ibrahim,Usman,Male,17,Sunrise Secondary School,2,No,No,88,88,87,89,88.000000
+269,Kemi,Balogun,Female,16,Bright Future Academy,4,Yes,Yes,79,79,78,80,79.000000
+270,Emeka,Nwosu,Male,15,Lagos Model College,3,Yes,No,93,93,92,94,93.000000
+271,Fatima,Bello,Female,17,Royal Scholars School,4,Yes,Yes,80,80,79,81,80.000000
+272,Segun,Adeleke,Male,16,Abesan_high_SCh,3,Yes,No,87,87,86,88,87.000000
+273,Chioma,Okorie,Female,15,Greenfield High School,5,Yes,Yes,72,72,71,73,72.000000
+274,Yusuf,Garba,Male,17,Sunrise Secondary School,2,No,No,91,91,90,92,91.000000
+275,Bisi,Adebola,Female,16,Bright Future Academy,4,Yes,Yes,85,85,84,86,85.000000
+276,Chinedu,Okafor,Male,15,Lagos Model College,3,Yes,No,78,78,77,79,78.000000
